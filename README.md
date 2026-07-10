@@ -1,7 +1,7 @@
 # 👋 Welcome to My Blog
 这是我的个人技术博客，基于 GitHub Pages + Jekyll 搭建。
 
-🌐 博客地址：https://你的用户名.github.io
+🌐 博客地址：https://tiantianwang007.github.io/ttw.github.io/
 
 ## 📖 博客内容
 - 编程学习笔记
